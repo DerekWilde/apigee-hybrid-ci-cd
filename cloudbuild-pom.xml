@@ -60,7 +60,7 @@
 				<apigee.env>prod</apigee.env>
 				<apigee.hosturl>https://apigee.googleapis.com</apigee.hosturl>
 				<apigee.apiversion>v1</apigee.apiversion>
-				<apigee.org>${org}</apigee.org>
+				<apigee.org>apigee-x-eval-307219</apigee.org>
 				<apigee.options>override</apigee.options> <!-- overrides is default and the only option -->
 				<apigee.bearer>${bearer}</apigee.bearer> <!-- this takes precedence over service account file -->
 				<apigee.serviceaccount.file>${file}</apigee.serviceaccount.file>
